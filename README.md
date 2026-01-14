@@ -1,7 +1,5 @@
-# Tauri + React + Typescript
+Supabase Dumper ferramenta para fazer extração de dados de keys anon que não possuem configuração de RLS corretamente.
+Supabase Dumper tool for extracting data from anonymous keys that do not have RLS configured correctly.
+Supabase Dumper — инструмент для извлечения данных из анонимных ключей, которые не имеют правильной настройки RLS.
 
-This template should help get you started developing with Tauri, React and Typescript in Vite.
-
-## Recommended IDE Setup
-
-- [VS Code](https://code.visualstudio.com/) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
+<img width="1919" height="1035" alt="image" src="https://github.com/user-attachments/assets/35131b8a-440b-4006-a374-46d7bd6751c2" />
